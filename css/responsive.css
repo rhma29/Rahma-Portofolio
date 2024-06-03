@@ -70,18 +70,9 @@
       /* End of Navigation */
     
       :root {
-        --sectionPadding: 4rem 0;
+        --sectionPadding: 4rem;
       }
-    
-      /* Titles */
-      .section-title {
-        font-size: 1.6rem;
-        margin: 0.6rem 0 2.5rem;
-      }
-    
-      .pre-title {
-        font-size: 0.8rem;
-      }
+
     
       /* Hero Section */
       #hero {
