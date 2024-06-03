@@ -27,7 +27,6 @@
     height: fit-content;
     margin-top: 50px;
     margin-bottom: 50px;
-    font-size: 1rem;
 
 }
 
@@ -40,7 +39,9 @@
 #portfolios{
     margin-bottom: 100px;
 }
-
+#hero p{
+font-size: 14px;
+}
 }
 
 
