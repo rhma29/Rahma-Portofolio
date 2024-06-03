@@ -13,6 +13,9 @@
 }
 }
 @media screen and (max-width: 640px) {
+    .main-container {
+        width: 90%;
+    }
     /* Titles */
 
     .lead text {
