@@ -18,6 +18,8 @@
     height: fit-content;
     margin-top: 50px;
     margin-bottom: 50px;
+    font-size: 5rem;
+
 }
 
 #services{
@@ -29,9 +31,7 @@
 #portfolios{
     margin-bottom: 100px;
 }
-#hero p{
-    font-size: 5rem;
-}
+
 }
 
 
