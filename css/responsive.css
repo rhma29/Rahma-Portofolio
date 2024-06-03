@@ -13,8 +13,9 @@
     }
   }
 
- @media screen and (max-width: 825px){
-/* Titles */
+  /* Mobile Size */
+  @media screen and (max-width: 640px) {
+    /* Titles */
     .section-title {
       font-size: 1.3rem;
     }
@@ -22,7 +23,6 @@
     .pre-title {
       font-size: 0.7rem;
     }
-
     /* Burger */
     .burger {
         display: block;
@@ -137,15 +137,5 @@
         padding: 2rem 0;
       }
   
-  /* Mobile Size */
-  @media screen and (max-width: 640px) {
-    /* Titles */
-    .section-title {
-      font-size: 1.3rem;
-    }
-  
-    .pre-title {
-      font-size: 0.7rem;
-    }
     }
   
