@@ -138,7 +138,11 @@
       }
 
        .contact-item-detail p{
-        font-size: 7px;
+        font-size: 8px;
+      }
+
+      .contact-right{
+        margin-left: -25px;
       }
   
     }
